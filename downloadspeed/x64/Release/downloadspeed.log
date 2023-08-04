@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\leigh\source\repos\downloadspeed\downloadspeed\MyForm.h(701,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\leigh\source\repos\downloadspeed\downloadspeed\MyForm.h(706,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\leigh\source\repos\downloadspeed\downloadspeed\MyForm.cpp(6,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  downloadspeed.vcxproj -> C:\Users\leigh\source\repos\downloadspeed\x64\Release\downloadspeed.exe

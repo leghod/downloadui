@@ -1,0 +1,4 @@
+C:\Users\leigh\source\repos\downloadspeed\downloadspeed\x64\Debug\downloadspeed.vcxproj.AssemblyReference.cache
+C:\Users\leigh\source\repos\downloadspeed\downloadspeed\x64\Debug\downloadspeed.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\leigh\source\repos\downloadspeed\downloadspeed\x64\Debug\downloadspeed.MyForm.resources
+C:\Users\leigh\source\repos\downloadspeed\downloadspeed\x64\Debug\downloadspeed.vcxproj.GenerateResource.cache
