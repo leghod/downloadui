@@ -22,4 +22,6 @@ Select what speed format you want to convert to, e.g. GigaBytes per hour, etc.
 <br />
 <br />
 Update / fix log:
+<br />
 9/8/23: Changed a lowercase b into an uppercase B so you can succesfully convert download speeds into kilobytes again. (Line 803 MyForm.h)
+<br />
