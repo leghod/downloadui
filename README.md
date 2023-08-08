@@ -1,6 +1,9 @@
 # downloadui
 A windows, tool with a GUI for converting download speeds and estimating download times written in C++/CLI using winforms.
 <br />
+<br />
+This is just for fun, yeah this could be made without the GUI which would make this so much easier for me, but thats boring.
+<br />
 I coded this in 24 hours, using my small amount of prior C++ knowledge and experience in C# and winforms to create this tool.
 <br />
 I created this to practice both my math skills and C++ skills as I have learnt most of my C++ knowledge within the last week and wanted to apply what I have learnt.
@@ -15,3 +18,8 @@ Input your value, e.g. 40 megabits per second, input 40 into the textbox, select
 <br />
 <br />
 Select what speed format you want to convert to, e.g. GigaBytes per hour, etc.
+
+<br />
+<br />
+Update / fix log:
+9/8/23: Changed a lowercase b into an uppercase B so you can succesfully convert download speeds into kilobytes again. (Line 803 MyForm.h)
