@@ -800,7 +800,7 @@ private: System::Void button1_Click(System::Object^ sender, System::EventArgs^ e
 		rawdownog = rawdownog / 8;
 		label10->Text = "Bytes/";
 	}
-	if (comboBox3->Text == "Kilobytes") // converts the down speed in bits to kilobytes
+	if (comboBox3->Text == "KiloBytes") // converts the down speed in bits to kilobytes
 	{
 		rawdownog = rawdownog / 8 / 1000;
 		label10->Text = "KiloBytes/";
